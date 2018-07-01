@@ -1,6 +1,6 @@
 # Summer Code Teacing Repo
 
-[![This Repository]](https://github.com/joseluisillana/SummerCodeTeaching)
+[![This Repository](https://www.shareicon.net/data/128x128/2015/09/10/98662_link_512x512.png)](https://github.com/joseluisillana/SummerCodeTeaching)
 
 [![Udemy Angular 4 course]()](https://www.udemy.com/angular-2-fernando-herrera/learn/v4/overview)
 
