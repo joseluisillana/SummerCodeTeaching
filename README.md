@@ -1,14 +1,14 @@
 # Summer Code Teacing Repo
 
-[![This Repository](https://assets-cdn.github.com/images/modules/logos_page/Octocat.png)(https://github.com/joseluisillana/SummerCodeTeaching)]
+[![This Repository]()(https://github.com/joseluisillana/SummerCodeTeaching)]
 
-[![Udemy Angular 4 course](https://www.udemy.com/staticx/udemy/images/v6/logo-coral.svg)(https://www.udemy.com/angular-2-fernando-herrera/learn/v4/overview)]
+[![Udemy Angular 4 course]()(https://www.udemy.com/angular-2-fernando-herrera/learn/v4/overview)]
 
-[![Sublime + Plugins](https://www.sublimetext.com/images/logo.svg)(https://www.campusmvp.es/recursos/post/Introduccion-a-Sublime-Text-3-y-su-configuracion-y-uso-para-AngularJS.aspx)]
+[![Sublime + Plugins]()(https://www.campusmvp.es/recursos/post/Introduccion-a-Sublime-Text-3-y-su-configuracion-y-uso-para-AngularJS.aspx)]
 
-[![Node + NPM](https://nodejs.org/static/images/logo.svg)(https://lamadriguerabit.com/articulos/como-instalar-node-js/)]
+[![Node + NPM]()(https://lamadriguerabit.com/articulos/como-instalar-node-js/)]
 
-[![Docker](https://www.docker.com/sites/default/files/catkeyboard_0.png)(https://www.docker.com/community-edition)]
+[![Docker]()(https://www.docker.com/community-edition)]
 
 # Description
 
