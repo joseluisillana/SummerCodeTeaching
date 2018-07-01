@@ -1,14 +1,14 @@
 # Summer Code Teacing Repo
 
-[![This Repository](https://www.shareicon.net/data/128x128/2015/09/10/98662_link_512x512.png)](https://github.com/joseluisillana/SummerCodeTeaching)
+[This Repository](https://github.com/joseluisillana/SummerCodeTeaching "This Repo")
 
-[![Udemy Angular 4 course]()](https://www.udemy.com/angular-2-fernando-herrera/learn/v4/overview)
+[Udemy Angular 4 course](https://www.udemy.com/angular-2-fernando-herrera/learn/v4/overview "Udemy Angular 4 course")
 
-[![Sublime + Plugins]()](https://www.campusmvp.es/recursos/post/Introduccion-a-Sublime-Text-3-y-su-configuracion-y-uso-para-AngularJS.aspx)
+[Sublime + Plugins](https://www.campusmvp.es/recursos/post/Introduccion-a-Sublime-Text-3-y-su-configuracion-y-uso-para-AngularJS.aspx "Sublime + Plugins")
 
-[![Node + NPM]()](https://lamadriguerabit.com/articulos/como-instalar-node-js/)
+[Node + NPM](https://lamadriguerabit.com/articulos/como-instalar-node-js "Node + NPM")
 
-[![Docker]()](https://www.docker.com/community-edition)
+[Docker](https://www.docker.com/community-edition "Docker")
 
 # Description
 
