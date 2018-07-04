@@ -1,0 +1,6 @@
+##Not track any *.js generated
+learning/**/*.js
+
+# MacOS
+.DS_Store
+**/.DS_Store
