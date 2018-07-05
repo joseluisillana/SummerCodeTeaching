@@ -49,28 +49,29 @@ Call for number 'HERE THE VALUE PASSED' and optional 'noOpPosible', result: 'HER
 
 Using the web to help us, using html, put in the html's body section a label with the text 'Current time:' followed by one more label, with the identifier 'label_1'. Then, write a typescript code that sets the label 'label_1' value to the current date and time. the result should be something like this:
 
-```
+`
 Current time: 05/06/2018, 8:35:56 AM
-```
+`
 
 HINT: 
 To manage dates in typescript (so javascropt) you can use the object Date, example:
 
-`
-  var fecha:date = new Date(); 
+```
+  var fecha:Date = new Date(); 
   console.log(fecha.toLocaleString())
-`
+```
 
 HINT: 
 To get the value of a label by id, you can use the DoM (Document Object Model), example:
-`
+```
 (<HTMLLabelElement>document.getElementById("label_1")).textContent ="SOMETHING";
 
-`
+```
 
 HINT: 
 To put a label with an Identifier in HTML, you can use this code:
-`
+
+```
 <label>Time: </label><label id="label_1" />
 
-`
+```
