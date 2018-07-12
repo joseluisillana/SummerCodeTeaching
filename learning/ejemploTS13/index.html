@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8"/>
+		<title>Introducción</title>
+		<script src="./node_modules/systemjs/dist/system.js"></script>
+	</head>
+	<body>	
+		<script>
+			console.log("Loading Page")
+			SystemJS.config({
+				packages: {
+					'/': {
+						defaultExtension: 'js'
+					}
+				}
+			});
+			System.import('app.js').then(function(){
+				console.log("Page Loaded and Script Running")
+            });
+		</script>
+		Hi
+	</body>
+</html>
+
